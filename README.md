@@ -1,4 +1,4 @@
-# Repostory_algo
+# Repository_algo
 ##Memory_card
 
 ```
